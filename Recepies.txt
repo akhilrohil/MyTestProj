@@ -4,3 +4,5 @@ Allo Paneer
 Pasta
 pakoda
 chicken
+pizza
+onion
