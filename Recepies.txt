@@ -6,3 +6,5 @@ pakoda
 chicken
 pizza
 onion
+
+myNewitem
